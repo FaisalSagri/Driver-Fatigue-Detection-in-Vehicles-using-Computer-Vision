@@ -49,14 +49,21 @@ Step 5: Perform eyes open or close, mouth open or close, to observe the system d
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/88180614/127967365-ccb15d9d-a782-4673-b751-9367fe4ebfde.png">
 
 **References:**<br>
-• C. Murukesh, Preethi Padmanabhan, Department of Electronics and Instrumentation Engineering, Velammal Engineering College, Anna University, Chennai, INDIA. </b>"DROWSINESS DETECTION FOR DRIVERS USING COMPUTER VISION",WSEAS Transactions on Information Science and Applications.<br>
-• Ghassan Jasim AL-Anizy, Md. Jan Nordin and Mohammed M. Razooq,"AUTOMATIC DRIVER DROWSINESS DETECTION USING HAAR ALGORITHM AND SUPPORT VECTOR MACHINES TECHNIQUES"<br>
-• Mehul K Dabhi, Bhavna K Pancholi, M. S. University Baroda, India, " FACE DETECTION SYSTEM BASED ON VIOLA-JONES ALGORITHM", International Journal of Science and </b>Research (IJSR).<br>
-• Satya Mallick, "HEAD POSE ESTIMATION USING OPENCV AND DLIB | LEARN OPENCV", 2016 42.<br>
-• Pauly Leo , Shankar Deepa ,Department Of Electronics and Engineering, CUSAT , "DETECTION OF DROWSINESS BASED ON HOG FEATURES AND SVM CLASSIFIERS", Proceedings      </b>Conference of IEEE. International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN) 2015.<br>
-• P. Viola and M. Jones, " ROBUST REAL-TIME FACE DETECTION" ,International Journal Of Computer Vision,Received September 10, 2001; Revised July 10, 2003; Accepted </b>July 11, 2003.<br>
-• Anjith George, "DESIGN AND IMPLEMENTATION OF REAL TIME ALGORITHMS FOR EYE TRACKING AND PERCLOS MEASUREMENT FOR ON BOARD ESTIMATION OF ALERTNESS OF DRIVERS", </b>Report submitted to Indian Institute of Technology, Kharagpur , April 2012.<br>
-• Tereza Soukupova , Jan Cech , "REAL-TIME EYE BLINK DETECTION USING FACIAL LANDMARKS" , Report submitted to 21st Computer Vision Winter Workshop Luka Cehovin, Rok </b>Mandeljc, Vitomir Struc (eds.) Rimske Toplice, Slovenia, February 4, 2016.<br>
+1. C. Murukesh, Preethi Padmanabhan, Department of Electronics and Instrumentation Engineering, Velammal Engineering College, Anna University, Chennai, INDIA. "DROWSINESS DETECTION FOR DRIVERS USING COMPUTER VISION",WSEAS Transactions on Information Science and Applications.<br>
+
+2. Ghassan Jasim AL-Anizy, Md. Jan Nordin and Mohammed M. Razooq,"AUTOMATIC DRIVER DROWSINESS DETECTION USING HAAR ALGORITHM AND SUPPORT VECTOR MACHINES TECHNIQUES"<br>
+
+3. Mehul K Dabhi, Bhavna K Pancholi, M. S. University Baroda, India, " FACE DETECTION SYSTEM BASED ON VIOLA-JONES ALGORITHM", International Journal of Science and Research (IJSR).<br>
+
+4. Satya Mallick, "HEAD POSE ESTIMATION USING OPENCV AND DLIB | LEARN OPENCV", 2016 42.<br>
+
+5. Pauly Leo , Shankar Deepa ,Department Of Electronics and Engineering, CUSAT , "DETECTION OF DROWSINESS BASED ON HOG FEATURES AND SVM CLASSIFIERS", Proceedings      Conference of IEEE. International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN) 2015.<br>
+
+6. P. Viola and M. Jones, " ROBUST REAL-TIME FACE DETECTION" ,International Journal Of Computer Vision,Received September 10, 2001; Revised July 10, 2003; Accepted July 11, 2003.<br>
+
+7. Anjith George, "DESIGN AND IMPLEMENTATION OF REAL TIME ALGORITHMS FOR EYE TRACKING AND PERCLOS MEASUREMENT FOR ON BOARD ESTIMATION OF ALERTNESS OF DRIVERS", Report submitted to Indian Institute of Technology, Kharagpur , April 2012.<br>
+
+8. Tereza Soukupova , Jan Cech , "REAL-TIME EYE BLINK DETECTION USING FACIAL LANDMARKS" , Report submitted to 21st Computer Vision Winter Workshop Luka Cehovin, Rok Mandeljc, Vitomir Struc (eds.) Rimske Toplice, Slovenia, February 4, 2016.<br>
 
 
 

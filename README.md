@@ -49,10 +49,9 @@ Step 5: Perform eyes open or close, mouth open or close, to observe the system d
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/88180614/127967365-ccb15d9d-a782-4673-b751-9367fe4ebfde.png">
 
 **References:**<br>
-1. C. Murukesh, Preethi Padmanabhan, Department of Electronics and Instrumentation Engineering, Velammal Engineering College, Anna University, Chennai, INDIA. "DROWSINESS DETECTION FOR DRIVERS USING COMPUTER VISION",WSEAS Transactions on Information Science and Applications.<br>
-2. Ghassan Jasim AL-Anizy, Md. Jan Nordin and Mohammed M. Razooq,"AUTOMATIC DRIVER DROWSINESS DETECTION USING HAAR ALGORITHM AND SUPPORT VECTOR MACHINES TECHNIQUES"<br>
-3. Mehul K Dabhi, Bhavna K Pancholi, M. S. University Baroda, India, " FACE DETECTION SYSTEM BASED ON VIOLA-JONES ALGORITHM", International Journal of Science and Research (IJSR).<br>
 <img width="1956" alt="image" src="https://user-images.githubusercontent.com/88180614/127967482-63f05a84-7fcb-4005-b4bc-82ebf6a925ca.png">
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/88180614/127967682-f9777a6f-bbb3-4f71-85ab-489272a54bdd.png">
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/88180614/127967695-a02f8980-56a8-44f5-96b4-85173543f766.png">
 
 
 

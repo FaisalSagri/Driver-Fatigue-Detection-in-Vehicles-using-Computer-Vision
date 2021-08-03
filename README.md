@@ -32,5 +32,28 @@ Step 5: Perform eyes open or close, mouth open or close, to observe the system d
 **Work-breakdown Structure:**<br>
 ![image](https://user-images.githubusercontent.com/88180614/127966827-4713375f-778b-4caf-9f7f-3fdf6a636399.png)
 
+**Data Flow Diagram:**<br>
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/88180614/127966653-28d363c5-6988-44bf-bbff-667c8ee5967f.png">
+
+**Usecase Diagram:**<br>
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/88180614/127967138-7700811b-942e-4ec2-8df5-a896036dbd4a.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/88180614/127967183-99234b1e-7fdb-428f-9c42-c3c8392c9061.png">
+
+**Architecture Diagram:**<br>
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/88180614/127967240-3cc47819-e4f3-474c-b33c-8ca890af6403.png">
+
+**Activity Diagram:**<br>
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/88180614/127967318-89222ab5-50f9-477f-8bb0-d748dd36e3f0.png">
+
+**Task Flow Diagram:**<br>
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/88180614/127967365-ccb15d9d-a782-4673-b751-9367fe4ebfde.png">
+
+**References:**<br>
+1. C. Murukesh, Preethi Padmanabhan, Department of Electronics and Instrumentation Engineering, Velammal Engineering College, Anna University, Chennai, INDIA. "DROWSINESS DETECTION FOR DRIVERS USING COMPUTER VISION",WSEAS Transactions on Information Science and Applications.<br>
+2. Ghassan Jasim AL-Anizy, Md. Jan Nordin and Mohammed M. Razooq,"AUTOMATIC DRIVER DROWSINESS DETECTION USING HAAR ALGORITHM AND SUPPORT VECTOR MACHINES TECHNIQUES"<br>
+3. Mehul K Dabhi, Bhavna K Pancholi, M. S. University Baroda, India, " FACE DETECTION SYSTEM BASED ON VIOLA-JONES ALGORITHM", International Journal of Science and Research (IJSR).<br>
+<img width="1956" alt="image" src="https://user-images.githubusercontent.com/88180614/127967482-63f05a84-7fcb-4005-b4bc-82ebf6a925ca.png">
+
+
+
 

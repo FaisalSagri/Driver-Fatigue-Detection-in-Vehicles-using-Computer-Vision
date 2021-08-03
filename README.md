@@ -29,4 +29,5 @@ Step 5: Perform eyes open or close, mouth open or close, to observe the system d
 
 The results of test cases are included in the test/Test Plan.pdf <br>
 The complete work breakdown structure, use-case diagrams, data flow diagram, architecture diagram, activity diagrams and sequence diagrams can be found in the presentation file and the appropriate documents section.<br>
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/88180614/127966653-28d363c5-6988-44bf-bbff-667c8ee5967f.png">
 
